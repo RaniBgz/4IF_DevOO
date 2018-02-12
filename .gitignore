@@ -1,0 +1,12 @@
+/bin/
+.metadata/
+.classpath
+.project
+.settings
+/code/nbproject/*
+/code/build/*
+/code/build.xml
+/code/manifest.mf
+/dev/nbproject/private/
+/code/OptimodLyon/nbproject/private/
+/code/dist/
